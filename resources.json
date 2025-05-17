@@ -1,0 +1,70 @@
+{
+  "Math": {
+    "Beginner": {
+      "Ebook": "📘 'Basic Algebra for Beginners' by Khan Academy",
+      "Video": "▶️ 'Math Basics' - YouTube (Math Antics)",
+      "Article": "📰 'Understanding Numbers' - mathisfun.com"
+    },
+    "Intermediate": {
+      "Ebook": "📘 'Intermediate Algebra' by OpenStax",
+      "Video": "▶️ 'Functions and Graphs' - YouTube (MathAntics)",
+      "Article": "📰 'Polynomials Overview' - Khan Academy"
+    },
+    "Advanced": {
+      "Ebook": "📘 'Advanced Mathematics' by Cambridge",
+      "Video": "▶️ 'Calculus Explained' - 3Blue1Brown",
+      "Article": "📰 'Mathematical Theorems in Depth' - arXiv.org"
+    }
+  },
+  "Science": {
+    "Beginner": {
+      "Ebook": "📘 'Science Basics' by Scholastic",
+      "Video": "▶️ 'Introduction to Science' - National Geographic Kids",
+      "Article": "📰 'Simple Science Facts' - kidsdiscover.com"
+    },
+    "Intermediate": {
+      "Ebook": "📘 'Concepts of Physics' by H.C. Verma",
+      "Video": "▶️ 'Periodic Table Explained' - FuseSchool",
+      "Article": "📰 'Genetics Simplified' - Khan Academy"
+    },
+    "Advanced": {
+      "Ebook": "📘 'Advanced Physics' by Resnick & Halliday",
+      "Video": "▶️ 'Relativity Explained' - PBS SpaceTime",
+      "Article": "📰 'Quantum Physics Explained' - Scientific American"
+    }
+  },
+  "History": {
+    "Beginner": {
+      "Ebook": "📘 'World History Basics' by NCERT",
+      "Video": "▶️ 'Ancient Civilizations' - CrashCourse",
+      "Article": "📰 'History for Beginners' - Ducksters"
+    },
+    "Intermediate": {
+      "Ebook": "📘 'World History Volume II' by NCERT",
+      "Video": "▶️ 'Medieval Europe' - CrashCourse",
+      "Article": "📰 'Historical Timelines' - history.com"
+    },
+    "Advanced": {
+      "Ebook": "📘 'Modern History' by Bipin Chandra",
+      "Video": "▶️ 'World Wars Overview' - History Channel",
+      "Article": "📰 'Colonial Impact Studies' - JSTOR"
+    }
+  },
+  "Programming": {
+    "Beginner": {
+      "Ebook": "📘 'Learn Python the Hard Way' by Zed Shaw",
+      "Video": "▶️ 'Python for Beginners' - freeCodeCamp",
+      "Article": "📰 'Getting Started with Coding' - Codecademy"
+    },
+    "Intermediate": {
+      "Ebook": "📘 'Automate the Boring Stuff with Python'",
+      "Video": "▶️ 'Object-Oriented Programming in Python' - Corey Schafer",
+      "Article": "📰 'Understanding APIs' - Postman Blog"
+    },
+    "Advanced": {
+      "Ebook": "📘 'Clean Code' by Robert C. Martin",
+      "Video": "▶️ 'Advanced Python Tips & Tricks' - Tech with Tim",
+      "Article": "📰 'System Design Principles' - GeeksForGeeks"
+    }
+  }
+}
